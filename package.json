@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Henry Spivey"
+	"author": "Henry Spivey",
+	"description": "testing description"
 }
